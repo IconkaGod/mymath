@@ -1,3 +1,3 @@
-module github.com/IconkaGod/mymath/v1.0.0
+module github.com/IconkaGod/mymath
 
 go 1.19
